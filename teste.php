@@ -1,3 +1,3 @@
-<?= 
-	"Testanto Git"
+<?php 
+	echo "Testanto Git";
  ?>
